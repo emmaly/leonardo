@@ -1,5 +1,7 @@
 # Leonardo AI for Go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/emmaly/leonardo.svg)](https://pkg.go.dev/github.com/emmaly/leonardo)
+
 This is an unofficial implementation of the Leonardo AI API client for Go.
 
 This is not sufficiently tested, may not work as expected, and it is not in a stable API state.
@@ -14,7 +16,7 @@ go get github.com/emmaly/leonardo
 
 ## Usage
 
-Review the (example/example.go)[example/example.go] file for a usage example.
+Review the [`example/example.go`](example/example.go) file for a usage example.
 
 ## Contributing
 
